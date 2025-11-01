@@ -24,6 +24,7 @@
 
 ### 💻 I Code In  
 
+<div style='left'>
 <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/> 
@@ -34,16 +35,19 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/tailwindcss.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/redux.png"/>
+</div>
 
 ---
 
 ### 🧠 Tools & Platforms  
 
+<div style='flex'>
 <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/github.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/dusk/64/postman-api.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/vercel.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/>
+</div>
 
 ---
 
