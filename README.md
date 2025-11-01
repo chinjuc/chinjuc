@@ -48,16 +48,3 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/vercel.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/>
 </div>
-
----
-
-### 🧩 Featured Projects  
-
-#### 🛒 E-Commerce Website  
-> Built a full-stack MERN e-commerce app with product CRUD, add-to-cart, checkout, and user feedback.
-
-#### 💍 Wedding Planner  
-> Developed a MERN-based wedding planner website managing vendors, events, and guests.
-
-#### 🤖 ChatGPT Clone  
-> Created an AI chatbot using the MERN stack and OpenAI API with authentication and optimized APIs.
